@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# SwiftPM
+.build/
+.swiftpm/
+Package.resolved
+
+# Xcode
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# Build artifacts
+MonitorBar.app
+MonitorBar.zip
+Assets/AppIcon.iconset/
